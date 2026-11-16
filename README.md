@@ -12,7 +12,7 @@ MODS RECOMP aims to enhance the gaming experience through various modifications,
 
 The project covers multiple gaming platforms and is not limited to Nintendo 64 recompilations.
 
-## Mods
+## 🖥 Mods
 
 <img width="600" height="256" alt="image" src="https://github.com/user-attachments/assets/9867564d-d96f-4f24-8942-07b0396ee3d7" />
 
