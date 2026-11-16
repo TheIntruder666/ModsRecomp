@@ -20,7 +20,8 @@ https://github.com/VibinToast/JetForceGemini-Recompiled
 
 these mods will be only compatible with this recomp thanks to the VibinToast JFG-Mods https://github.com/VibinToast/JFG-Mods
 
-<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/9a2c3175-80cd-4403-a6e8-7ac26f81fa76" />
+<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/effaf5a6-8582-42f7-b86c-a12034a4b9ad" />
+
 
 <img width="400" height="250" alt="melee attack" src="https://github.com/user-attachments/assets/f6dc5ae5-70d5-477d-8106-fc3b019ec73f" />
 
