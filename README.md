@@ -17,7 +17,9 @@ The project covers multiple gaming platforms and is not limited to Nintendo 64 r
 
 https://github.com/VibinToast/JetForceGemini-Recompiled
 
-these mods will be approved only with this recomp 
+these mods will be only compatible with this recomp thanks to the VibinToast JFG-Mods https://github.com/VibinToast/JFG-Mods
+
+Melee attack 
 
 ## 🐧 Platform Compatibility
 
