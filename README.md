@@ -11,6 +11,14 @@ MODS RECOMP aims to enhance the gaming experience through various modifications,
 
 The project covers multiple gaming platforms and is not limited to Nintendo 64 recompilations.
 
+## Mods
+
+<img width="1200" height="512" alt="image" src="https://github.com/user-attachments/assets/9867564d-d96f-4f24-8942-07b0396ee3d7" />
+
+https://github.com/VibinToast/JetForceGemini-Recompiled
+
+these mods will be approved only with this recomp 
+
 ## 🐧 Platform Compatibility
 
 **Steam Deck & Linux — Primary Platforms**
