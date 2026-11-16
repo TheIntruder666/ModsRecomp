@@ -20,7 +20,13 @@ https://github.com/VibinToast/JetForceGemini-Recompiled
 
 these mods will be only compatible with this recomp thanks to the VibinToast JFG-Mods https://github.com/VibinToast/JFG-Mods
 
-Melee attack 
+<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/9a2c3175-80cd-4403-a6e8-7ac26f81fa76" />
+
+<img width="400" height="250" alt="melee attack" src="https://github.com/user-attachments/assets/f6dc5ae5-70d5-477d-8106-fc3b019ec73f" />
+
+<img width="400" height="250" alt="melee attack 2" src="https://github.com/user-attachments/assets/94f61d94-77a2-4f8c-a575-a2d56e450317" />
+
+- Bring Halo-inspired melee combat to Jet Force Gemini. Close the gap and land a quick strike when an enemy gets too close.
 
 ## 🐧 Platform Compatibility
 
